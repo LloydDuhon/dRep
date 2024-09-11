@@ -1,0 +1,85 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "doNotList": false,
+    "givenName": "LloydDuhon",
+    "motivations": "My motivation to serve as a Cardano DREP stems from a deep-rooted passion for decentralized governance and a commitment to Cardano's transformative potential. As a long-standing community member, I've witnessed our ecosystem's growth and challenges firsthand.\n\nMy diverse roles—from hosting the GM Cardano podcast to serving on the Intersect Budget Committee and Cardano Civics Committee—have instilled in me a comprehensive understanding of our community's needs and aspirations. This multifaceted experience fuels my drive to bridge gaps between various stakeholders and ensure that every voice is heard in our governance process.\n\nMy ultimate goal is to help Cardano realize its full potential as a catalyst for positive global change. By serving as a DREP, I aim to contribute to a governance model that is truly representative, efficient, and aligned with our community's values and vision for the future.\n",
+    "objectives": "As a Cardano Ambassador, podcast host, and leader in multiple ecosystem organizations, I believe in Cardano's potential to revolutionize global systems through decentralized governance. My diverse roles have given me a comprehensive understanding of our ecosystem's challenges and opportunities.\nAs a DRep, I aim to:\n\n1. Enhance community engagement through education and inclusive decision-making.\n2. Ensure responsible treasury fund allocation, leveraging my expertise.\n3. Champion transparent and ethical governance practices.\n4. Foster collaboration between Cardano entities, bridging gaps and creating synergies.\n5. Represent diverse community voices in governance decisions.\n6. Drive real-world adoption of Cardano technology.\n7. Safeguard the network's long-term sustainability and decentralization.\n\nI bring a unique blend of technical knowledge, governance experience, and community connection. My involvement in many committees and community groups equips me to make informed decisions.",
+    "paymentAddress": "addr1q8n0l04t2cec8l9wc3qhrz0znax2377rv66paltqujv8zfq20aa6r78tnm0emlucna2ggf43qwzzdh2g4630fwz7mw6q9s3nsv",
+    "qualifications": "1. Cardano Ambassador: Officially recognized advocate for the Cardano ecosystem.\n2. Host of GM Cardano: Communicating complex Cardano concepts to a wide audience, staying current on developments.\n3. Member of Intersect: Shaping Cardano's development through participation in a key ecosystem organization.\n4. Subject matter expert Intersect Budget Committee.\n5. Member Cardano Civics Committee.\n6. Observer to the board of directors of Intersect: Oversight and strategic input at the highest organizational level.\n7. Co-Founder and elected secretary of the Community Advisory Body to Intersect: Leadership in creating structures for community representation.\n8. C-suite experience inside and outside Cardano ecosystem: Brings high-level management and strategic planning skills to the role.\n9. Extensive network within the Cardano community: Well-connected to various stakeholders, facilitating collaboration and information exchange.\n10. Proven track record of community engagement and leadership",
+    "references": [
+      {
+        "@type": "Link",
+        "label": "DRep Repository",
+        "uri": "https://github.com/LloydDuhon/dRep/tree/main"
+      },
+      {
+        "@type": "Identity",
+        "label": "X Profile",
+        "uri": "https://x.com/radioastro"
+      },
+      {
+        "@type": "Identity",
+        "label": "Cardano Forum",
+        "uri": "https://forum.cardano.org/u/lloydduhon"
+      },
+      {
+        "@type": "Identity",
+        "label": "LinkedIn Profile",
+        "uri": "https://www.linkedin.com/in/lloyd-duhon/"
+      }
+    ]
+  }
+}
