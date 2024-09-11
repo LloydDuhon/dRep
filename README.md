@@ -67,6 +67,9 @@ Dedicated Cardano advocate and ecosystem leader with extensive experience across
 ## Achievements
 
 - Elected to multiple leadership positions within the Cardano ecosystem
+- COO DripDropz
+- Founder Urban Farmer dApp & Living Greens Urban Farm
+- Project Catalyst Funded and Completed projects.
 - Successfully launched and grew the GM Cardano podcast
 - Contributed to key governance decisions shaping Cardano's future
 - Established new community representation structures within Intersect
