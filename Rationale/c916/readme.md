@@ -15,3 +15,5 @@ To the good doggo Hosky, thanks for all that you do for our chain adoption.
 
 
 Regrettably, I must vote to decline this proposal. I think we should continue to build our collaboration muscles and find a way to communicate on the actions we wish to raise prior to raising them.
+
+On Chain: 'https://cexplorer.io/tx/72e3fce3c898b061ea78e6798cc578f825a55831d1732e2e5bf8b311e6d4e201/governance#data'
