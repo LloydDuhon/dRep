@@ -82,3 +82,14 @@ Dedicated Cardano advocate and ecosystem leader with extensive experience across
 - Foster greater community engagement in decision-making processes
 - Contribute to Cardano's long-term sustainability and decentralization
 
+## Contact
+
+You can reach Lloyd at the following Social Media Accounts:
+https://twitter.com/radioastro
+https://www.linkedin.com/in/lloyd-duhon/
+
+You can follow Lloyd on https://ryp.io/
+
+Lloyd has an official website:
+https://lloydduhon.com/
+
