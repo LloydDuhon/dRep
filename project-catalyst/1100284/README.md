@@ -11,6 +11,10 @@
 - [Production application](https://urban-farm.resi.works/)
 - [Official Project Catalyst record](https://milestones.projectcatalyst.io/projects/1100284)
 - [Mainnet production walkthrough](https://youtu.be/oX0RIyBBnbs)
+- [Project closeout video](https://youtu.be/rsUF6AAVB28)
+- [Project closeout report (PDF)](./Urban-Farmer-Grow-to-Launch-Closeout-Report.pdf)
+- [Project closeout report (source)](./Urban-Farmer-Grow-to-Launch-Closeout-Report.md)
+- [Final Catalyst copy/paste responses (HTML)](./Project-Catalyst-1100284-Copy-Paste-Responses.html)
 - [Milestone 4 Proof of Achievement](./evidence/01-milestone-4-proof-of-achievement.md)
 - [Mainnet reviewer runbook](./evidence/02-mainnet-reviewer-runbook.md)
 - [Mainnet acceptance-test results](./evidence/03-mainnet-test-results.md)
@@ -57,4 +61,4 @@ SHA-256 for `urban_farmer_closeout_public_package.zip`:
 
 The package excludes the raw validation archive, raw screen recordings, intermediate edit frames, and personal contact information. The public walkthrough masks wallet-sensitive regions and the personal contact field visible in the raw Cropchain payload. No end-user KPI or audience statistics are included.
 
-The final project closeout report and separate closeout video will be added here after their cross-linked public versions are complete.
+The public closeout report and video cross-link this evidence package. The companion HTML file contains the two remaining Project Catalyst responses—Milestone 4 and final closeout—with live links preserved for rich-text copy/paste.
