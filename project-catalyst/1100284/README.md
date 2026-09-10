@@ -13,7 +13,7 @@
 - [Mainnet production walkthrough](https://youtu.be/oX0RIyBBnbs)
 - [Project closeout video](https://youtu.be/rsUF6AAVB28)
 - [Project closeout report (PDF)](./Urban-Farmer-Grow-to-Launch-Closeout-Report.pdf)
-- [Project closeout report (source)](./Urban-Farmer-Grow-to-Launch-Closeout-Report.md)
+- [Project closeout report (extended narrative)](./Urban-Farmer-Grow-to-Launch-Closeout-Report.md)
 - [Final Catalyst copy/paste responses (HTML)](./Project-Catalyst-1100284-Copy-Paste-Responses.html)
 - [Milestone 4 Proof of Achievement](./evidence/01-milestone-4-proof-of-achievement.md)
 - [Mainnet reviewer runbook](./evidence/02-mainnet-reviewer-runbook.md)
