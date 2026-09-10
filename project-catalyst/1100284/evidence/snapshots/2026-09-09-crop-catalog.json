@@ -1,0 +1,114 @@
+{
+  "crops": [
+    {
+      "id": "amaranth-microgreens",
+      "name": "Amaranth Microgreens",
+      "variety": "Red garnet",
+      "videoUrl": "https://youtu.be/QqFseKMfW1M",
+      "videoStatus": "published",
+      "defaultGrowDays": 9,
+      "medium": "Microgreen tray",
+      "environment": "indoor",
+      "typicalYield": "70-120 g per tray"
+    },
+    {
+      "id": "basil",
+      "name": "Basil",
+      "variety": "Genovese",
+      "videoUrl": "https://youtu.be/3OlWZqFJHLs",
+      "videoStatus": "published",
+      "defaultGrowDays": 32,
+      "medium": "Hydroponic tray",
+      "environment": "both",
+      "typicalYield": "140-220 g per tray"
+    },
+    {
+      "id": "broccoli-microgreens",
+      "name": "Broccoli Microgreens",
+      "variety": "Broccoli",
+      "videoUrl": "https://youtu.be/GCGBz2XUhi8",
+      "videoStatus": "published",
+      "defaultGrowDays": 10,
+      "medium": "Microgreen tray",
+      "environment": "indoor",
+      "typicalYield": "110-170 g per tray"
+    },
+    {
+      "id": "butter-lettuce",
+      "name": "Butter Lettuce",
+      "variety": "Butterhead",
+      "videoUrl": "https://youtu.be/oBAABR3QPiQ",
+      "videoStatus": "published",
+      "defaultGrowDays": 30,
+      "medium": "Hydroponic tray",
+      "environment": "both",
+      "typicalYield": "250-340 g per tray"
+    },
+    {
+      "id": "dill",
+      "name": "Dill",
+      "variety": "Bouquet",
+      "videoUrl": "https://youtu.be/9cPZsvzPx3w",
+      "videoStatus": "published",
+      "defaultGrowDays": 24,
+      "medium": "Hydroponic tray",
+      "environment": "both",
+      "typicalYield": "80-150 g per tray"
+    },
+    {
+      "id": "mixed-microgreen",
+      "name": "Mixed Microgreen",
+      "variety": "Superfood mix",
+      "videoUrl": "https://youtu.be/iNmYwffi0VY",
+      "videoStatus": "published",
+      "defaultGrowDays": 10,
+      "medium": "Microgreen tray",
+      "environment": "indoor",
+      "typicalYield": "120-180 g per tray"
+    },
+    {
+      "id": "radish-microgreens",
+      "name": "Radish Microgreens",
+      "variety": "Radish",
+      "videoUrl": "https://youtu.be/9MeYiMZ4XcY",
+      "videoStatus": "published",
+      "defaultGrowDays": 8,
+      "medium": "Microgreen tray",
+      "environment": "indoor",
+      "typicalYield": "100-160 g per tray"
+    },
+    {
+      "id": "romaine-lettuce",
+      "name": "Romaine Lettuce",
+      "variety": "Romaine",
+      "videoUrl": "https://youtu.be/Ka2d2pAEkgc",
+      "videoStatus": "published",
+      "defaultGrowDays": 28,
+      "medium": "Hydroponic tray",
+      "environment": "both",
+      "typicalYield": "280-360 g per tray"
+    },
+    {
+      "id": "sunflower-microgreens",
+      "name": "Sunflower Microgreens",
+      "variety": "Sunflower",
+      "videoUrl": "https://youtu.be/XjtoW53t5gQ",
+      "videoStatus": "published",
+      "defaultGrowDays": 11,
+      "medium": "Microgreen tray",
+      "environment": "indoor",
+      "typicalYield": "170-260 g per tray"
+    },
+    {
+      "id": "teen-mixed-lettuce",
+      "name": "Teen Mixed Lettuce",
+      "variety": "Mixed lettuce",
+      "videoUrl": "https://youtu.be/SVBKKKpMHgI",
+      "videoStatus": "published",
+      "defaultGrowDays": 21,
+      "medium": "Hydroponic tray",
+      "environment": "both",
+      "typicalYield": "220-310 g per tray"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "service": "urban-farmer-api",
+  "environment": "production",
+  "crops": 10,
+  "seasons": 1,
+  "sidechainRecords": 1
+}

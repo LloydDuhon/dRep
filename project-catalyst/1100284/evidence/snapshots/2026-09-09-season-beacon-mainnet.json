@@ -1,0 +1,45 @@
+{
+  "network": "mainnet",
+  "purpose": "Urban Farmer Season Beacon operational evidence",
+  "scriptAddress": "addr1wy90y0rfv44jxrvddzxwtxwkvahnhxul0a8vavvfs5kqnfs8g08zj",
+  "scriptHash": "0af23c69656b230d8d688ce599d6676f3b9b9f7f4eceb189852c09a6",
+  "start": {
+    "transactionHash": "0b6f561320751248a133ed2162b2b8ea54e975dff42be10d1167aaa19aa2037f",
+    "transactionUrl": "https://cardanoscan.io/transaction/0b6f561320751248a133ed2162b2b8ea54e975dff42be10d1167aaa19aa2037f",
+    "blockHeight": 13920152,
+    "blockHash": "93644c359ad89e94c8d97138bbc79192d721f8f08760b81dcb7945a9f3a1891d",
+    "absoluteSlot": 197424144,
+    "timestampUtc": "2026-09-09T21:47:15Z",
+    "feeLovelace": 405785,
+    "scriptOutputIndex": 0,
+    "scriptOutputLovelace": 3000000,
+    "datumHash": "fea4692b45009db86ba998380668c2d0e0cb73c15c87b49edaf16854666b9730",
+    "metadataLabel674Present": false
+  },
+  "finish": {
+    "transactionHash": "f9f91de4f205221dbb82bd20dec94379af686d4685662bcab5ae8eabefe34b48",
+    "transactionUrl": "https://cardanoscan.io/transaction/f9f91de4f205221dbb82bd20dec94379af686d4685662bcab5ae8eabefe34b48",
+    "blockHeight": 13920158,
+    "blockHash": "3f0b93ed13b0d86075a52c2b9ec002062c95eed0e85b069cc1676b9a655b5acf",
+    "absoluteSlot": 197424232,
+    "timestampUtc": "2026-09-09T21:48:43Z",
+    "feeLovelace": 915765,
+    "scriptOutputIndex": 0,
+    "scriptOutputLovelace": 3000000,
+    "datumHash": "c5461c75c8fd62da084abdd5620dd8f3655639e5656f91e594d3bb716c7c6283",
+    "metadataLabel674Present": true,
+    "metadata": {
+      "674": {
+        "msg": [
+          "Urban Farmer Cropchain anchor v1",
+          "season:e429bd3f-ba67-4176-9841-6299c9765643",
+          "farm:d86d001d-47cc-4bf1-a17f-32c96a4ba01e",
+          "85476bd46c50d6f57fd70d5f56493a9e6311174428f0b17152aaf804fff12e2c",
+          "records:3",
+          "schema:fsma204-v1"
+        ]
+      }
+    }
+  },
+  "verificationSource": "Koios mainnet API tx_info responses checked 2026-09-09"
+}

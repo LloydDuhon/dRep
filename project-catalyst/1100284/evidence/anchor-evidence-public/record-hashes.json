@@ -1,0 +1,26 @@
+{
+  "seasonId": "e429bd3f-ba67-4176-9841-6299c9765643",
+  "farmId": "d86d001d-47cc-4bf1-a17f-32c96a4ba01e",
+  "anchorTransactionHash": "f9f91de4f205221dbb82bd20dec94379af686d4685662bcab5ae8eabefe34b48",
+  "expectedRootHash": "85476bd46c50d6f57fd70d5f56493a9e6311174428f0b17152aaf804fff12e2c",
+  "records": [
+    {
+      "order": 1,
+      "cteType": "planting",
+      "prevRecordHash": null,
+      "recordHash": "23552e4bcf5c32ebb6d7690bb5454d6363d0c25a112055ae6d8f211e901eaa81"
+    },
+    {
+      "order": 2,
+      "cteType": "initial_care",
+      "prevRecordHash": "23552e4bcf5c32ebb6d7690bb5454d6363d0c25a112055ae6d8f211e901eaa81",
+      "recordHash": "41cdbc394fe9173e77c84389d6425a5ae217857d8cd625d58fbbadf3a6c4ddeb"
+    },
+    {
+      "order": 3,
+      "cteType": "issue",
+      "prevRecordHash": "41cdbc394fe9173e77c84389d6425a5ae217857d8cd625d58fbbadf3a6c4ddeb",
+      "recordHash": "6fa699595910569085c1a930693332fb32e4448a00dcf45e5c756f6c50e0bd2c"
+    }
+  ]
+}

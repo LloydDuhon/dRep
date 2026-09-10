@@ -1,0 +1,7 @@
+{
+  "endpoint": "https://urban-farm.resi.works/api/verify",
+  "verifiedAt": "2026-09-09",
+  "actualRootHash": "85476bd46c50d6f57fd70d5f56493a9e6311174428f0b17152aaf804fff12e2c",
+  "expectedRootHash": "85476bd46c50d6f57fd70d5f56493a9e6311174428f0b17152aaf804fff12e2c",
+  "verified": true
+}

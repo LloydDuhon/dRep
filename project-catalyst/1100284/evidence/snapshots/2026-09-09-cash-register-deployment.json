@@ -1,0 +1,21 @@
+{
+  "network": "mainnet",
+  "purpose": "Urban Farmer Cash Register deployment evidence",
+  "transactionHash": "f6a29d60ff5e962ba6eb20f42add8b6a1cab8e78a4408744186b57af10d29a0b",
+  "transactionUrl": "https://cardanoscan.io/transaction/f6a29d60ff5e962ba6eb20f42add8b6a1cab8e78a4408744186b57af10d29a0b",
+  "blockHeight": 13920126,
+  "blockHash": "455a720ac281b67c6143de0042268b29ef048e4d75c6af6eb6be1c8f1970ffcf",
+  "epoch": 654,
+  "absoluteSlot": 197423488,
+  "timestampUnix": 1788989779,
+  "timestampUtc": "2026-09-09T21:36:19Z",
+  "transactionFeeLovelace": 184817,
+  "cashRegisterOutput": {
+    "index": 0,
+    "valueLovelace": 3000000,
+    "scriptAddress": "addr1w98cwkahgjl8f39muml8lnmwn0cc9unykx5hgpx8z05fvpc9ya0vu",
+    "paymentCredential": "4f875bb744be74c4bbe6fe7fcf6e9bf182f264b1a97404c713e89607",
+    "datumHash": "75b511c9a25dce38388fd9829f6ba2d8b00ca9ecbef1d91e3e62d5afd74b0651"
+  },
+  "verificationSource": "Koios mainnet API tx_info response checked 2026-09-09"
+}

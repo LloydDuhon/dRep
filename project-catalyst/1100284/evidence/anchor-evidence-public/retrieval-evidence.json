@@ -1,0 +1,15 @@
+{
+  "network": "mainnet",
+  "seasonId": "e429bd3f-ba67-4176-9841-6299c9765643",
+  "retrievalTransactionHash": "cd2ca3904bd012cd9987b138970570756135ce5a3da569d85f90502b1484e622",
+  "retrievalTransactionUrl": "https://cardanoscan.io/transaction/cd2ca3904bd012cd9987b138970570756135ce5a3da569d85f90502b1484e622",
+  "blockHeight": 13920196,
+  "blockHash": "06210439ae34101a17e2fab107b6b511ba8726a1dd568e6de1e6aeae21bfc8bb",
+  "absoluteSlot": 197425270,
+  "timestampUtc": "2026-09-09T22:06:01Z",
+  "feeLovelace": 194057,
+  "paidResiBaseUnits": 1000000000,
+  "paidResi": 1000,
+  "recipient": "addr1qykr9n7w0z7fv9jazuer6guea6p6q3h9m3m2jdqtgmw44yuszun3pemamhxyjcw479z4stv2pj6g23vnjhkf5qynu85sjexnng",
+  "originalArchiveSha256": "3fab647b2e25fd8b91c46c2ac92d2416d4e00da571eac3ee06ac9dbf2b33e65f"
+}

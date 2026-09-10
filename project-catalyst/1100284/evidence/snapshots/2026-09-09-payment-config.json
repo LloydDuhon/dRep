@@ -1,0 +1,28 @@
+{
+  "anchorMetadataLabel": 674,
+  "network": "mainnet",
+  "paymentMode": "wallet",
+  "projectReceivingAddress": "addr1qykr9n7w0z7fv9jazuer6guea6p6q3h9m3m2jdqtgmw44yuszun3pemamhxyjcw479z4stv2pj6g23vnjhkf5qynu85sjexnng",
+  "resiAssetUnit": "b7c783f6304eddbdf8f0dece4715d63cb9f453be89d97c8fba155d5752455349",
+  "resiDecimals": 6,
+  "nativeTokenMinLovelace": 2000000,
+  "rackAmount": 1000000000,
+  "seasonRetrievalAmount": 1000000000,
+  "seasonOpenAmount": 100000000,
+  "contracts": {
+    "cashRegister": {
+      "scriptAddress": "addr1w98cwkahgjl8f39muml8lnmwn0cc9unykx5hgpx8z05fvpc9ya0vu",
+      "scriptHash": "4f875bb744be74c4bbe6fe7fcf6e9bf182f264b1a97404c713e89607",
+      "deploymentTxHash": "f6a29d60ff5e962ba6eb20f42add8b6a1cab8e78a4408744186b57af10d29a0b",
+      "buyAmount": 10000000000,
+      "buyPriceLovelace": 100000000
+    },
+    "seasonBeacon": {
+      "scriptAddress": "addr1wy90y0rfv44jxrvddzxwtxwkvahnhxul0a8vavvfs5kqnfs8g08zj",
+      "scriptHash": "0af23c69656b230d8d688ce599d6676f3b9b9f7f4eceb189852c09a6",
+      "deploymentTxHash": "",
+      "startAmount": 100000000,
+      "closeAmount": 100000000
+    }
+  }
+}

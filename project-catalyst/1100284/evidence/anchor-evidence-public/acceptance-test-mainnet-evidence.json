@@ -1,0 +1,33 @@
+{
+  "evidenceType": "filmed-mainnet-acceptance-test",
+  "projectId": "1100284",
+  "application": "https://urban-farm.resi.works/",
+  "testDate": "2026-09-09",
+  "seasonId": "e818aade-1400-49d8-9068-ca9a30f63a9d",
+  "farmId": "d86d001d-47cc-4bf1-a17f-32c96a4ba01e",
+  "startTransaction": {
+    "hash": "09e0aafbfbe9e618ca520cf8323115c21a17bd4506c99b490795da37e71dde23",
+    "block": 13920389,
+    "timestampUtc": "2026-09-09T23:13:13Z",
+    "explorer": "https://cardanoscan.io/transaction/09e0aafbfbe9e618ca520cf8323115c21a17bd4506c99b490795da37e71dde23"
+  },
+  "finishAnchorTransaction": {
+    "hash": "51c112fbc55c2c69f9b23338c613bec8026037347db285e3c81afb3c46a8b276",
+    "block": 13920400,
+    "timestampUtc": "2026-09-09T23:16:54Z",
+    "explorer": "https://cardanoscan.io/transaction/51c112fbc55c2c69f9b23338c613bec8026037347db285e3c81afb3c46a8b276",
+    "metadata": {
+      "label": 674,
+      "message": "Urban Farmer Cropchain anchor v1",
+      "merkleRoot": "4853b5a80c1f14dfabe85f9388e36daf7ad9ceef78a9d00f40fea6eb0fb70f73",
+      "records": 3,
+      "schema": "fsma204-v1"
+    }
+  },
+  "verification": {
+    "status": "pass",
+    "method": "Independent Koios tx_info and tx_metadata queries",
+    "verifiedOn": "2026-09-10"
+  },
+  "privacy": "No personal contact fields are included in this record."
+}
